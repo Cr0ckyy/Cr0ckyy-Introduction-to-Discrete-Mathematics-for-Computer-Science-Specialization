@@ -1,4 +1,4 @@
-# Introduction to Discrete Mathematics for Computer Science
+# Introduction to Discrete Mathematics for Computer Science Specialization
 
 **[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics?)**
 + **[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)**
@@ -11,4 +11,4 @@
 **Instructors** : `Alexander S. Kulikov`, `Michael Levin` and `Vladimir Podolskii`
 
 
-TThe project is mostly made up of Python programs, which are used to solve each of the problems in the preceding courses.
+The project is mostly made up of Python programs, which are used to solve each of the problems in the preceding courses.
