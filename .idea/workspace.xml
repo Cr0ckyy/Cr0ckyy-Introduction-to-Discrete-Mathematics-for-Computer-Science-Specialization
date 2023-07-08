@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d17febf-8da4-428a-9738-47cf91ba2f8d" name="Changes" comment="Updated" />
+    <list default="true" id="5d17febf-8da4-428a-9738-47cf91ba2f8d" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Introduction to Discrete Mathematics for Computer Science Specialization/.idea/modules.xml">
+      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/2_Problems_in_Combinatorics/1_Distributing_Assignments_Among_People.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/1_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/1_Combinations_with_Repetitions/1_review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/2_salads.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/1_Combinations_with_Repetitions/2_salads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/3_Combinations_with_Repetitions.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/1_Combinations_with_Repetitions/3_Combinations_with_Repetitions.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SI2Dj6vc2XdPLA8Y7w0mQhyVtD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +54,39 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.placeholder">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\5_Delivery_Problem" />
+      <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\4_Number_Theory_and_Cryptography" />
+      <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\3_Introduction_to_Graph_Theory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\2_Combinatorics_and_Probability\Week_3\1_Combinations_with_Repetitions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1_Distributing_Assignments_Among_People">
+    <configuration name="1_Distributing_Assignments_Among_People" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/2_Problems_in_Combinatorics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/2_Problems_in_Combinatorics/1_Distributing_Assignments_Among_People.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Expanding_(3a-2b)^k" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1_Distributing_Assignments_Among_People" />
         <item itemvalue="Python.placeholder" />
         <item itemvalue="Python.Expanding_(3a-2b)^k" />
       </list>
@@ -104,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688819656963</updated>
-      <workItem from="1688819659720" duration="303000" />
+      <workItem from="1688819659720" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1688819939658</created>
@@ -113,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688819939658</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Introduction to Discrete Mathematics for Computer Science Specialization/.idea/modules.xml">
+      <created>1688820018998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688820018998</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Introduction to Discrete Mathematics for Computer Science Specialization/.idea/modules.xml">
+      <created>1688820062817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688820062817</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,9 +189,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Introduction to Discrete Mathematics for Computer Science Specialization/.idea/modules.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Introduction to Discrete Mathematics for Computer Science Specialization/.idea/modules.xml" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_Distributing_Assignments_Among_People.coverage" NAME="1_Distributing_Assignments_Among_People Coverage Results" MODIFIED="1688820464671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/2_Problems_in_Combinatorics" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$placeholder.coverage" NAME="placeholder Coverage Results" MODIFIED="1688819778454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Mathematical_Thinking_in_Computer_Science" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$Expanding__3a_2b__k.coverage" NAME="Expanding_(3a-2b)^k Coverage Results" MODIFIED="1688819677539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_2" />
   </component>
