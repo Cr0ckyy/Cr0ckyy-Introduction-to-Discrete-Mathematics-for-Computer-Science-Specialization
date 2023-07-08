@@ -10,5 +10,6 @@
 
 **Instructors** : `Alexander S. Kulikov`, `Michael Levin` and `Vladimir Podolskii`
 
-
 The project is mostly made up of Python programs, which are used to solve each of the problems in the preceding courses.
+
+
