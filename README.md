@@ -10,6 +10,6 @@
 
 **Instructors** : `Alexander S. Kulikov`, `Michael Levin` and `Vladimir Podolskii`
 
-The project is mostly made up of Python programs, which are used to solve each of the problems in the preceding courses.
+The project predominantly consists of Python scripts designed to address each problem associated with earlier courses in Discrete Mathematics, a topic within the Computer Science discipline.
 
 
