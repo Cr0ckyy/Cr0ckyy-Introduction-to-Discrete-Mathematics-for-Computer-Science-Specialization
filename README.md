@@ -7,9 +7,6 @@
 + **[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics)**
 + **[Delivery Problem](https://www.coursera.org/learn/delivery-problem)**
 
-
-**Instructors** : `Alexander S. Kulikov`, `Michael Levin` and `Vladimir Podolskii`
-
 The project predominantly consists of Python scripts designed to address each problem associated with earlier courses in Discrete Mathematics, a topic within the Computer Science discipline.
 
 
