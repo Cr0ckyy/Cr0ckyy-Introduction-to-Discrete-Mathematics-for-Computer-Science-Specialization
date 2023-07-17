@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d17febf-8da4-428a-9738-47cf91ba2f8d" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation/4_More_Linearity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/3_Expectation_is_Not_All/1_Expectation_is_Not_All.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/1_From_Expectation_to_Probability.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/2_Average_Income.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/3_Bobs_Party_Revisited.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/4_Alice_s_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation/placeholder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/3_Expectation_is_Not_All/placeholder.py" beforeDir="false" />
-    </list>
+    <list default="true" id="5d17febf-8da4-428a-9738-47cf91ba2f8d" name="Changes" comment="Complete the Combinatorics and Probability module in the Introduction to Discrete Mathematics for Computer Science Specialization Course on Coursera." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +215,7 @@
       <workItem from="1689346463975" duration="2529000" />
       <workItem from="1689403337711" duration="2028000" />
       <workItem from="1689492063318" duration="5809000" />
-      <workItem from="1689551486437" duration="3273000" />
+      <workItem from="1689551486437" duration="4059000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1688819939658</created>
@@ -367,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689500787195</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Complete the Combinatorics and Probability module in the Introduction to Discrete Mathematics for Computer Science Specialization Course on Coursera.">
+      <created>1689554934927</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1689554934927</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +386,8 @@
     <MESSAGE value="Updated" />
     <MESSAGE value="Complete 'Probability: Do's and Don't's' section in Week 4's Combinatorics and Probability" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Complete the Combinatorics and Probability module in the Introduction to Discrete Mathematics for Computer Science Specialization Course on Coursera." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete the Combinatorics and Probability module in the Introduction to Discrete Mathematics for Computer Science Specialization Course on Coursera." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
