@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d17febf-8da4-428a-9738-47cf91ba2f8d" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation/3_Birthday_Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation/4_More_Linearity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/3_Expectation_is_Not_All/1_Expectation_is_Not_All.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/1_From_Expectation_to_Probability.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/2_Average_Income.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/3_Bobs_Party_Revisited.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/4_Alice_s_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation/placeholder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/3_Expectation_is_Not_All/placeholder.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +85,8 @@
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\2_Combinatorics_and_Probability\Week_3\1_Combinations_with_Repetitions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3_Birthday_Problem">
-    <configuration name="1_Linearity_of_Expectation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4_Alice_s_tests">
+    <configuration name="1_Expectation_is_Not_All" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +94,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/3_Expectation_is_Not_All" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation/1_Linearity_of_Expectation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/3_Expectation_is_Not_All/1_Expectation_is_Not_All.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_Average" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1_From_Expectation_to_Probability" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +116,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/1_Random_Variables_and_Expectations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/1_Random_Variables_and_Expectations/2_Average.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/1_From_Expectation_to_Probability.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_Bob_s_Party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_Average_Income" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +138,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation/2_Bob_s_Party.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/2_Average_Income.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_Birthday_Problem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_Bobs_Party_Revisited" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +160,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation/3_Birthday_Problem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/3_Bobs_Party_Revisited.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_Expectations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4_Alice_s_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,12 +182,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/1_Random_Variables_and_Expectations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/1_Random_Variables_and_Expectations/3_Expectations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality/4_Alice_s_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_Birthday_Problem" />
-        <item itemvalue="Python.2_Bob_s_Party" />
-        <item itemvalue="Python.1_Linearity_of_Expectation" />
-        <item itemvalue="Python.3_Expectations" />
-        <item itemvalue="Python.2_Average" />
+        <item itemvalue="Python.4_Alice_s_tests" />
+        <item itemvalue="Python.3_Bobs_Party_Revisited" />
+        <item itemvalue="Python.2_Average_Income" />
+        <item itemvalue="Python.1_From_Expectation_to_Probability" />
+        <item itemvalue="Python.1_Expectation_is_Not_All" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +224,8 @@
       <workItem from="1689330211197" duration="871000" />
       <workItem from="1689346463975" duration="2529000" />
       <workItem from="1689403337711" duration="2028000" />
-      <workItem from="1689492063318" duration="4381000" />
+      <workItem from="1689492063318" duration="5809000" />
+      <workItem from="1689551486437" duration="3273000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1688819939658</created>
@@ -352,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689499450873</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Update">
+      <created>1689500787195</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1689500787195</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,9 +404,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$4_Numbers_with_Non_increasing_Digits.coverage" NAME="4_Numbers_with_Non-increasing_Digits Coverage Results" MODIFIED="1688827385462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/2_Problems_in_Combinatorics" />
-    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$3_Birthday_Problem.coverage" NAME="3_Birthday_Problem Coverage Results" MODIFIED="1689499849673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$3_Birthday_Problem.coverage" NAME="3_Birthday_Problem Coverage Results" MODIFIED="1689501162235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_Random_Variables.coverage" NAME="1_Random_Variables Coverage Results" MODIFIED="1689492382123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/1_Random_Variables_and_Expectations" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$4_Fair_Decisions_and_Imperfect_Coins__1_.coverage" NAME="4_Fair_Decisions_and_Imperfect_Coins (1) Coverage Results" MODIFIED="1689227598429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_4/1_What_is_Probability" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_From_Expectation_to_Probability.coverage" NAME="1_From_Expectation_to_Probability Coverage Results" MODIFIED="1689552630190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$2_Average.coverage" NAME="2_Average Coverage Results" MODIFIED="1689492499696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/1_Random_Variables_and_Expectations" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$4_More_About_Independence.coverage" NAME="4_More_About_Independence Coverage Results" MODIFIED="1689404109474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_4/3_Conditional_Probability" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$3_Expectations.coverage" NAME="3_Expectations Coverage Results" MODIFIED="1689493667915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/1_Random_Variables_and_Expectations" />
@@ -403,8 +419,13 @@
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$7_Problems_in_Combinatorics.coverage" NAME="7_Problems_in_Combinatorics Coverage Results" MODIFIED="1688830586166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/2_Problems_in_Combinatorics" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$6_Inclusion_Exclusion_Formula.coverage" NAME="6_Inclusion-Exclusion_Formula Coverage Results" MODIFIED="1689229310906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_4/1_What_is_Probability" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$2_Distributing_Candies_Among_Kids.coverage" NAME="2_Distributing_Candies_Among_Kids Coverage Results" MODIFIED="1688821617540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/2_Problems_in_Combinatorics" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$3_Bobs_Party_Revisited.coverage" NAME="3_Bobs_Party_Revisited Coverage Results" MODIFIED="1689554164662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$6_Splitting_into_Working_Groups.coverage" NAME="6_Splitting_into_Working_Groups Coverage Results" MODIFIED="1688829932979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/2_Problems_in_Combinatorics" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_review.coverage" NAME="1_review Coverage Results" MODIFIED="1688828423105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/1_Combinations_with_Repetitions" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_Expectation_is_Not_All.coverage" NAME="1_Expectation_is_Not_All Coverage Results" MODIFIED="1689552327231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/3_Expectation_is_Not_All" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$4_More_Linearity.coverage" NAME="4_More_Linearity Coverage Results" MODIFIED="1689552078176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/2_Linearity_of_Expectation" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$2_Average_Income.coverage" NAME="2_Average_Income Coverage Results" MODIFIED="1689553191946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$4_Alice_s_tests.coverage" NAME="4_Alice_s_tests Coverage Results" MODIFIED="1689554402338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$3_Numbers_with_Fixed_Sum_of_Digits.coverage" NAME="3_Numbers_with_Fixed_Sum_of_Digits Coverage Results" MODIFIED="1688825997155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_3/2_Problems_in_Combinatorics" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$5_Puzzle_Prisoner_and_King.coverage" NAME="5_Puzzle_Prisoner_and_King Coverage Results" MODIFIED="1689227930930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_4/1_What_is_Probability" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_Monty_Hall_Gone_Crazy.coverage" NAME="1_Monty_Hall_Gone_Crazy Coverage Results" MODIFIED="1689403552461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_4/4_Monty_Hall_Paradox" />
