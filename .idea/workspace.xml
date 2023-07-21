@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d17febf-8da4-428a-9738-47cf91ba2f8d" name="Changes" comment="Complete the Combinatorics and Probability module in the Introduction to Discrete Mathematics for Computer Science Specialization Course on Coursera.">
-      <change afterPath="$PROJECT_DIR$/3_Introduction_to_Graph_Theory/Week_1/slides/1_warmup.pdf" afterDir="false" />
+    <list default="true" id="5d17febf-8da4-428a-9738-47cf91ba2f8d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Introduction_to_Graph_Theory/placeholder.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Introduction_to_Graph_Theory/Week_1/placeholder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Introduction_to_Graph_Theory/Week_1/slides/1_warmup.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/3_Introduction_to_Graph_Theory/slides/1_warmup.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +67,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lishu\PycharmProjects\Introduction-to-Discrete-Mathematics-for-Computer-Science-Specialization\3_Introduction_to_Graph_Theory\Week_1\slides" />
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\2_Combinatorics_and_Probability\Week_5\1_Random_Variables_and_Expectations" />
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\2_Combinatorics_and_Probability\Week_5\2_Linearity_of_Expectation" />
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\2_Combinatorics_and_Probability\Week_5\3_Expectation_is_Not_All" />
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\2_Combinatorics_and_Probability\Week_5\4_Markov’s_Inequality" />
-      <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\2_Combinatorics_and_Probability\Week_6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lishu\PycharmProjects\Introduction-to-Discrete-Mathematics-for-Computer-Science-Specialization\3_Introduction_to_Graph_Theory" />
+      <recent name="C:\Users\lishu\PycharmProjects\Introduction-to-Discrete-Mathematics-for-Computer-Science-Specialization\3_Introduction_to_Graph_Theory\Week_1" />
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\2_Combinatorics_and_Probability\Week_4\2_Probability_Dos_and_Donts" />
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\2_Combinatorics_and_Probability\Week_3\1_Combinations_with_Repetitions" />
@@ -222,7 +223,7 @@
       <workItem from="1689492063318" duration="5809000" />
       <workItem from="1689551486437" duration="4059000" />
       <workItem from="1689852006728" duration="716000" />
-      <workItem from="1689934357514" duration="363000" />
+      <workItem from="1689934357514" duration="1061000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1688819939658</created>
@@ -371,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689554934927</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Start Course Part 3: Introduction to Graph Theory.">
+      <created>1689934779573</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1689934779573</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,12 +397,17 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Introduction to Discrete Mathematics for Computer Science Specialization/.idea/modules.xml" />
     <MESSAGE value="Updated" />
     <MESSAGE value="Complete 'Probability: Do's and Don't's' section in Week 4's Combinatorics and Probability" />
     <MESSAGE value="Update" />
     <MESSAGE value="Complete the Combinatorics and Probability module in the Introduction to Discrete Mathematics for Computer Science Specialization Course on Coursera." />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete the Combinatorics and Probability module in the Introduction to Discrete Mathematics for Computer Science Specialization Course on Coursera." />
+    <MESSAGE value="Start Course Part 3: Introduction to Graph Theory." />
+    <option name="LAST_COMMIT_MESSAGE" value="Start Course Part 3: Introduction to Graph Theory." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
