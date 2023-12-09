@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d17febf-8da4-428a-9738-47cf91ba2f8d" name="Changes" comment="Finished Week 2 of Graph Theory Intro course">
-      <change afterPath="$PROJECT_DIR$/3_Introduction_to_Graph_Theory/Week_4/3_Ramsey_Numbers/slides/3_ramsey_numbers.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Divisibility_Tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Division_by_101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Division_by_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Modular_Arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Properties_of_Divisibility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Remainders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Remainders_of_Large_Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5d17febf-8da4-428a-9738-47cf91ba2f8d" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_2/Greatest_Common_Divisor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/placeholder.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Four_Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Divisibility_Tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Divisibility_Tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Division_by_101.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Division_by_101.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Division_by_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Division_by_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Four_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Four_Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Modular_Arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Modular_Arithmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Modular_Division.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Modular_Division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Properties_of_Divisibility.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Properties_of_Divisibility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Remainders.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Remainders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Remainders_of_Large_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Remainders_of_Large_Numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,23 +75,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lishu/PycharmProjects/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/3_Introduction_to_Graph_Theory/Week_2/slides&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Divisibility_Tests.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/lishu/PycharmProjects/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/3_Introduction_to_Graph_Theory/Week_2/slides",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\3_Introduction_to_Graph_Theory\Week_2\slides" />
@@ -108,7 +109,7 @@
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\2_Combinatorics_and_Probability\Week_4\2_Probability_Dos_and_Donts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Modular_Division">
+  <component name="RunManager" selected="Python.Four_Numbers">
     <configuration name="Divisibility_Tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
       <option name="ENV_FILES" value="" />
@@ -123,7 +124,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Divisibility_Tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Divisibility_Tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Modular_Arithmetic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Division_by_101" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,12 +142,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Modular_Arithmetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Division_by_101.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Division_by_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Division_by_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Four_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Four_Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,53 +216,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Modular_Division.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Properties_of_Divisibility" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Properties_of_Divisibility.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Remainders_of_Large_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Remainders_of_Large_Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_1/Modular_Division.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,13 +227,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Modular_Division" />
-        <item itemvalue="Python.Remainders_of_Large_Numbers" />
-        <item itemvalue="Python.Modular_Arithmetic" />
+        <item itemvalue="Python.Four_Numbers" />
+        <item itemvalue="Python.Division_by_101" />
         <item itemvalue="Python.Divisibility_Tests" />
-        <item itemvalue="Python.Properties_of_Divisibility" />
+        <item itemvalue="Python.Division_by_4" />
+        <item itemvalue="Python.Modular_Division" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -265,6 +273,8 @@
       <workItem from="1701359194312" duration="1345000" />
       <workItem from="1701933383331" duration="110000" />
       <workItem from="1701933495884" duration="5575000" />
+      <workItem from="1702103486704" duration="30000" />
+      <workItem from="1702103640187" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1688819939658</created>
@@ -428,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701095792792</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Update">
+      <option name="closed" value="true" />
+      <created>1702103507661</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1702103507661</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,9 +468,9 @@
     <MESSAGE value="Updated" />
     <MESSAGE value="Complete 'Probability: Do's and Don't's' section in Week 4's Combinatorics and Probability" />
     <MESSAGE value="Complete the Combinatorics and Probability module in the Introduction to Discrete Mathematics for Computer Science Specialization Course on Coursera." />
-    <MESSAGE value="Update" />
     <MESSAGE value="Finished Week 2 of Graph Theory Intro course" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Week 2 of Graph Theory Intro course" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
