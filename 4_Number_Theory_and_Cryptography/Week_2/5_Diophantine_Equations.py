@@ -1,6 +1,6 @@
 from sympy import symbols, Eq, solve
 
-# Define the symbol
+# Define the symbols
 x, y = symbols('x y')
 
 # Equation and constraints
@@ -23,4 +23,13 @@ def find_integer_solution(eq, constraints):
 solutions1 = find_integer_solution(eq1, constraints1)
 solutions2 = find_integer_solution(eq2, constraints2)
 
-solutions1, solutions2
+# Improved printing format
+def print_solutions(solutions, equation_number):
+    print(f"Solutions for Equation {equation_number}:")
+    for solution in solutions:
+        print(f"  x = {solution[0]}, y = {solution[1]}")
+    print()  # Add an empty line for better separation
+
+# Print solutions in the improved format
+print_solutions(solutions1, 1)
+print_solutions(solutions2, 2)
