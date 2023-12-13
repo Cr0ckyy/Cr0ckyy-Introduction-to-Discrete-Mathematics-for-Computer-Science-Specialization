@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d17febf-8da4-428a-9738-47cf91ba2f8d" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_3/1_Integer_Factorization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_3/2_Remainders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_3/3_Chinese_Remainder_Theorem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_3/4_Fast_Modular_Exponentiation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_3/slides/9t2VHGp3Eemp_gr2ZL5kng_078fdc4056be4a9dbb6140cc804665b5_fast_modular_exponentiation.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_3/4_Fast_Modular_Exponentiation.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_3/4_Fast_Modular_Exponentiation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,30 +66,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1_Integer_Factorization.executor": "Run",
-    "Python.2_Remainders.executor": "Run",
-    "Python.3_Chinese_Remainder_Theorem.executor": "Run",
-    "Python.4_Fast_Modular_Exponentiation.executor": "Run",
-    "Python.5_Diophantine_Equations.executor": "Run",
-    "Python.5_Diophantine_Equations_Code.executor": "Run",
-    "Python.Divisibility_Tests.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/lishu/PycharmProjects/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/3_Introduction_to_Graph_Theory/Week_2/slides",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1_Integer_Factorization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_Remainders.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_Chinese_Remainder_Theorem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_Fast_Modular_Exponentiation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_Diophantine_Equations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_Diophantine_Equations_Code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Divisibility_Tests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lishu/PycharmProjects/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization/3_Introduction_to_Graph_Theory/Week_2/slides&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lishu\PycharmProjects\Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization\3_Introduction_to_Graph_Theory\Week_2\slides" />
@@ -276,7 +272,8 @@
       <workItem from="1701933495884" duration="5575000" />
       <workItem from="1702103486704" duration="30000" />
       <workItem from="1702103640187" duration="312000" />
-      <workItem from="1702276085008" duration="9204000" />
+      <workItem from="1702276085008" duration="10419000" />
+      <workItem from="1702456298858" duration="442000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1688819939658</created>
@@ -456,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702277475765</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Update">
+      <option name="closed" value="true" />
+      <created>1702288683720</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1702288683720</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,9 +500,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$Counting_with_Restrictions.coverage" NAME="Counting_with_Restrictions Coverage Results" MODIFIED="1701360529683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_1" />
-    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$2_Average_Income.coverage" NAME="2_Average_Income Coverage Results" MODIFIED="1689553191946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
-    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_Monty_Hall_Gone_Crazy.coverage" NAME="1_Monty_Hall_Gone_Crazy Coverage Results" MODIFIED="1689403552461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_4/4_Monty_Hall_Paradox" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$2_Remainders.coverage" NAME="2_Remainders Coverage Results" MODIFIED="1702281305760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_3" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_Monty_Hall_Gone_Crazy.coverage" NAME="1_Monty_Hall_Gone_Crazy Coverage Results" MODIFIED="1689403552461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_4/4_Monty_Hall_Paradox" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$2_Average_Income.coverage" NAME="2_Average_Income Coverage Results" MODIFIED="1689553191946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_Random_Variables.coverage" NAME="1_Random_Variables Coverage Results" MODIFIED="1689492382123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/1_Random_Variables_and_Expectations" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$3_Bobs_Party_Revisited.coverage" NAME="3_Bobs_Party_Revisited Coverage Results" MODIFIED="1689554164662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_Expectation_is_Not_All.coverage" NAME="1_Expectation_is_Not_All Coverage Results" MODIFIED="1689552327231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/3_Expectation_is_Not_All" />
@@ -537,7 +542,7 @@
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_Concentration_for_Galton_Board.coverage" NAME="1_Concentration_for_Galton_Board Coverage Results" MODIFIED="1688880549267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_4/1_What_is_Probability" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$1_From_Expectation_to_Probability.coverage" NAME="1_From_Expectation_to_Probability Coverage Results" MODIFIED="1689552630190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_5/4_Markov’s_Inequality" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$5_Puzzle_Prisoner_and_King.coverage" NAME="5_Puzzle_Prisoner_and_King Coverage Results" MODIFIED="1689227930930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_4/1_What_is_Probability" />
-    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$4_Fast_Modular_Exponentiation.coverage" NAME="4_Fast_Modular_Exponentiation Coverage Results" MODIFIED="1702284068174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_3" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$4_Fast_Modular_Exponentiation.coverage" NAME="4_Fast_Modular_Exponentiation Coverage Results" MODIFIED="1702456487485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Number_Theory_and_Cryptography/Week_3" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$Remainders_of_Large_Numbers.coverage" NAME="Remainders_of_Large_Numbers Coverage Results" MODIFIED="1701947251470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Number_Theory_and_Cryptography" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$3_More_Conditional_Probabilities.coverage" NAME="3_More_Conditional_Probabilities Coverage Results" MODIFIED="1689329533992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_Combinatorics_and_Probability/Week_4/3_Conditional_Probability" />
     <SUITE FILE_PATH="coverage/Introduction_to_Discrete_Mathematics_for_Computer_Science_Specialization$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1701934771975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_Introduction_to_Graph_Theory/Week_4/2_Cliques_and_Independent_Sets" />
